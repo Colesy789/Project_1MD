@@ -73,3 +73,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore all content by default
+Content/*
+
+# Keey my implemented game files
+!Content/GameFiles/**
+!Content/GameFiles/

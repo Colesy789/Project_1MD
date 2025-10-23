@@ -80,3 +80,7 @@ Content/*
 # Keey my implemented game files
 !Content/GameFiles/**
 !Content/GameFiles/
+
+# Ignore all content within gamefiles which arnt mine
+Content/GameFiles/Zombies/Base_Zombies/Zombie/**
+Content/GameFiles/Characters/Zombies/**
